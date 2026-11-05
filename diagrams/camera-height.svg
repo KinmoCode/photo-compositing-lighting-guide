@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="Helvetica, Arial, sans-serif" font-size="14">
+  <title>Camera height: match from above, eye level or from below</title>
+  <rect width="800" height="360" fill="#f4f1ea"/>
+  <line x1="0" y1="320" x2="800" y2="320" stroke="#2a2a26" stroke-width="2"/>
+  <!-- subject -->
+  <g fill="#2a2a26"><circle cx="560" cy="150" r="20"/><rect x="535" y="174" width="50" height="146" rx="14"/></g>
+  <!-- cameras -->
+  <g fill="#4f6238">
+    <rect x="80" y="40" width="44" height="30" rx="4"/><rect x="80" y="135" width="44" height="30" rx="4"/><rect x="80" y="262" width="44" height="30" rx="4"/>
+  </g>
+  <g stroke="#4f6238" stroke-width="1.6" fill="none">
+    <line x1="124" y1="55" x2="540" y2="150"/><line x1="124" y1="150" x2="540" y2="150"/><line x1="124" y1="277" x2="540" y2="150"/>
+  </g>
+  <text x="136" y="40" fill="#2a2a26">from above: tops of heads, ground fills the frame</text>
+  <text x="136" y="140" fill="#2a2a26">eye level: the usual group photo</text>
+  <text x="136" y="300" fill="#2a2a26">from below: under the chin, low horizon</text>
+  <text x="470" y="350" fill="#4f6238">Photo of the person to add must come from the same height</text>
+</svg>
