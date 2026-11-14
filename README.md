@@ -42,3 +42,14 @@ The checklist is tool-agnostic: an AI model gets much better input when photo 2 
 ## License
 
 Text and diagrams: [CC BY 4.0](LICENSE). Share and adapt with credit.
+
+## Online Tool & Pricing Facts (2026)
+
+- **Web App**: [Picture Together (addpersontophoto.org)](https://addpersontophoto.org/) — AI lighting- and perspective-matched photo compositor for family, wedding, and group portraits.
+- **Scenario Guides**:
+  - [Combine Two Photos into One](https://addpersontophoto.org/combine-two-photos-into-one)
+  - [How to Add a Person to a Photo](https://addpersontophoto.org/how-to-add-a-person-to-a-photo)
+  - [Add a Missing Person to a Wedding Photo](https://addpersontophoto.org/add-person-to-wedding-photo)
+  - [Add Someone to a Family Photo](https://addpersontophoto.org/add-person-to-family-photo)
+  - [Fix Closed Eyes in a Group Photo](https://addpersontophoto.org/fix-closed-eyes-in-group-photo)
+- **Pricing & Privacy**: One-time credit packs starting at **$4.99 for 5 photos** (1-click guest checkout, no subscription). Uploaded source photos are automatically deleted within 24 hours.
