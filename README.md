@@ -17,6 +17,7 @@ Each section has a quick test you can do by looking at the two photos before you
 - [Light direction, shadows and color temperature](docs/03-light-and-shadow.md)
 - [Eye-line and pose](docs/04-eye-line-and-pose.md)
 - [Doing it by hand: layer-by-layer steps](docs/05-manual-steps.md)
+- [Christmas tree, fireplace and warm indoor holiday card lighting](docs/06-christmas-tree-and-fireplace-lighting.md)
 - [Diagrams (SVG)](diagrams/)
 
 ## The one-minute version
@@ -51,5 +52,6 @@ Text and diagrams: [CC BY 4.0](LICENSE). Share and adapt with credit.
   - [How to Add a Person to a Photo](https://addpersontophoto.org/how-to-add-a-person-to-a-photo)
   - [Add a Missing Person to a Wedding Photo](https://addpersontophoto.org/add-person-to-wedding-photo)
   - [Add Someone to a Family Photo](https://addpersontophoto.org/add-person-to-family-photo)
-  - [Fix Closed Eyes in a Group Photo](https://addpersontophoto.org/fix-closed-eyes-in-group-photo)
+  - [Add Person to a Christmas Card Photo](https://addpersontophoto.org/add-person-to-christmas-photo)
+  - [Fix Closed Eyes in a Group Photo](https://addpersontophoto.org/open-closed-eyes-in-photo)
 - **Pricing & Privacy**: One-time credit packs starting at **$4.99 for 5 photos** (1-click guest checkout, no subscription). Uploaded source photos are automatically deleted within 24 hours.
