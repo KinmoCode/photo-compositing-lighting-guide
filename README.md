@@ -55,3 +55,11 @@ Text and diagrams: [CC BY 4.0](LICENSE). Share and adapt with credit.
   - [Add Person to a Christmas Card Photo](https://addpersontophoto.org/add-person-to-christmas-photo)
   - [Fix Closed Eyes in a Group Photo](https://addpersontophoto.org/open-closed-eyes-in-photo)
 - **Pricing & Privacy**: One-time credit packs starting at **$4.99 for 5 photos** (1-click guest checkout, no subscription). Uploaded source photos are automatically deleted within 24 hours.
+
+## Compositing Workflow Comparison (Manual vs Automated)
+
+| Method | Preserves Existing Group Faces? | Preview Before Paying? | Typical Cost | Turnaround & Privacy |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Picture Together (addpersontophoto.org)](https://addpersontophoto.org/)** | **Yes** (includes [Christmas card group merge](https://addpersontophoto.org/add-person-to-christmas-photo) & [closed-eyes fix](https://addpersontophoto.org/open-closed-eyes-in-photo)) | **Yes** ([Free watermarked preview](https://addpersontophoto.org/free)) | **$1.99 single HD unlock** or **$4.99 / 5 photos** (one-time, no subscription) | ~40s; **24-hour automatic upload deletion** |
+| **Freelance Retouchers** | Yes (manual Photoshop) | Watermarked proof | $20–$65 per photo | 1–3 days |
+| **Desktop Layer Masking (Photoshop)** | Yes | 7-day trial | $22.99/mo subscription | 30–60 mins manual masking |
